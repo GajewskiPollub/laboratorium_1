@@ -24,6 +24,6 @@
 ## Punkt 4.<br>
 *docker image inspect <nazwa_obrazu>.<br>*
 <br>
-![](punkt_4_1.jpg)<br>
+![](punkt_4_2.jpg)<br>
 <br>
 *Zbudowany obraz posiada 12 warstw.*
